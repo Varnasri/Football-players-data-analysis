@@ -71,9 +71,4 @@ Manchester United football club wants to know which player they should sign for 
 
 ![image](https://github.com/aditigangar-dataanalystduo/football-players-data-analysis/assets/110927056/e765e74c-103d-43b1-8c5d-7905853211b6)
 
-
-## Note
-- This dataset belongs to @dataanalystduo. Unauthorized use or distribution of this project prohibited @dataanalystduo
-- Dataset has been downloaded from the internet using multiple sources. All the credit for the dataset goes to the original creator of the data
-
 **Link to dataset:** https://www.kaggle.com/datasets/kalpeshg0509/football-players-data
